@@ -1,3 +1,5 @@
 *.pyc
 _ipynb_checkpoints
 __pycache__
+dist
+*.gz
